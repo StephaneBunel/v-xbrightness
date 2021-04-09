@@ -11,3 +11,9 @@ Adjust brightness 20% lower:
 ```shell
 xbrightness -20
 ```
+
+## How to build
+
+```shell
+v -prod -o xbrightness main.v
+```
